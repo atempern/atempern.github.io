@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atempern.github.io/sitemap.html.gz
+Sitemap: https://atempern.github.io/app/sitemap.html.gz
+Sitemap: https://atempern.github.io/assets/sitemap.html.gz
+Sitemap: https://atempern.github.io/css/sitemap.html.gz
+Sitemap: https://atempern.github.io/includes/sitemap.html.gz
+Sitemap: https://atempern.github.io/item/sitemap.html.gz
+Sitemap: https://atempern.github.io/src/sitemap.html.gz
